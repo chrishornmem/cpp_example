@@ -1,0 +1,11 @@
+{
+  "name": "cpp_example",
+  "version": "1.0.0",
+  "description": "integrating c++ code with nodejs example",
+  "main": "hello.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "chris horn",
+  "license": "ISC"
+}
